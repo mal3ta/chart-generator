@@ -41,9 +41,9 @@ ___
 
 
 ## Limitations
-  Google Apps Script execution limitation - 6 min duration
-  Script Execution API executions per 100 seconds - 1,500  
-  Script Execution API executions per day - unlimited
+* Google Apps Script execution limitation - 6 min duration
+* Script Execution API executions per 100 seconds - 1,500  
+* Script Execution API executions per day - unlimited
 
 
 Feel free to fork this repo! Have fun!
