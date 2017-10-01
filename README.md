@@ -48,6 +48,6 @@ ___
 
 Feel free to fork this repo! Have fun!
 
-To see more capabilities of Google Apps Script check <a href="https://developers.google.com/apps-script?ref=mal3ta" target="_blank">this link </a>
+To see more capabilities of Google Apps Script check [this link](https://developers.google.com/apps-script?ref=mal3ta)
 
-To see more about Google Charts check <a href="https://developers.google.com/chart/interactive/docs/gallery?ref=mal3ta" target="_blank">this link </a>
+To see more about Google Charts check [this link](https://developers.google.com/chart/interactive/docs/gallery?ref=mal3ta)
