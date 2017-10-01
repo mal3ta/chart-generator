@@ -39,12 +39,11 @@ ___
 ## Usage
   Run ruby charts-generator.rb
 
-<img id="altcoin_prices_combined_0" src="https://cdn.patricktriest.com/blog/images/posts/crypto-markets/plot-images/altcoin_prices_combined.png" alt="Combined Altcoin Prices">
 
 ## Limitations
-  Google Apps Script limitation - 6 min duration
-  Script Execution API executions per 100 seconds up to 1,500 (editable)  
-  Script Execution API executions per day unlimited (editable)
+  Google Apps Script execution limitation - 6 min duration
+  Script Execution API executions per 100 seconds - 1,500  
+  Script Execution API executions per day - unlimited
 
 
 Feel free to fork this repo! Have fun!
