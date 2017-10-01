@@ -37,7 +37,7 @@ ___
 3. Change SCRIPT_ID, line 12 (Can be found in Google Apps Script file, File -> Project properties)
 
 ## Usage
-  Run ruby charts-generator.rb
+  Run ruby generate.rb
 
 
 ## Limitations
